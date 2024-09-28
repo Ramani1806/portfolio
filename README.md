@@ -77,5 +77,8 @@ This portfolio is designed to provide a comprehensive view of my skills, experie
    ```bash
    git clone https://github.com/yourusername/portfolio.git
 
+   
+![Screenshot 2024-09-28 101755](https://github.com/user-attachments/assets/1f0ae25f-784a-4f91-b67e-761a25b62dad)
+
 
 
